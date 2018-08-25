@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/flyver/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Flyver
-  x-api-slug: flyver
-  description: Flyver is a company passionate about the future of drones. Were building
-    the future by developing industrial solutions to solve problems in various vertical
-    sectors. Drones are poised to revolutionize most sectors of the economy and were
-    making it happen. Agriculture, Security, Insurance, Oil and Gas to start with.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flyver-drones.jpeg
-  humanURL: http://flyver.co/
-  baseURL: https:///
-  tags: Agriculture
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/flyver/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://flyver.co/blog/

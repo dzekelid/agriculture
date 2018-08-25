@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/weogeo-status/apis.md
 specificationVersion: "0.14"
-apis:
-- name: WeoGeo Status
-  x-api-slug: weogeo-status
-  description: Positioning-centric information is changing the way people, businesses
-    and governments work throughout the world. By applying Trimbles advanced positioning
-    solutions, productivity increases and safety improvements are being realized.    Though
-    best kn...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/674-weogeo-status.jpg
-  humanURL: http://www.weogeo.com/developer_doc/
-  baseURL: https:///
-  tags: Agriculture
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/weogeo-status/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://www.weogeo.com/developer_doc/
