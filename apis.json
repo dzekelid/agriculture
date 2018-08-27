@@ -1,0 +1,90 @@
+{
+	"name": "Streadata.io API Gallery - Agriculture",
+	"description": "This is a repository of agriculture APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/agriculture.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://agriculture.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "WeoGeo Status",
+			"x-api-slug": "weogeo-status",
+			"description": "Positioning-centric information is changing the way people, businesses and governments work throughout the world. By applying Trimbles advanced positioning solutions, productivity increases and safety improvements are being realized.    Though best kn...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/674-weogeo-status.jpg",
+			"humanURL": "http://www.weogeo.com/developer_doc/",
+			"baseURL": "https:///",
+			"tags": "Agriculture",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/weogeo-status/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Slingshot",
+			"x-api-slug": "slingshot",
+			"description": "Raven Slingshot is a precision ag innovation wirelessly connecting every square inch of your land to a set of intuitive online tools and premier hardware. -- Raven Slingshot is a precision ag innovation wirelessly connecting every square inch of your...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1126-slingshot.jpg",
+			"humanURL": "http://ravenslingshot.com/products/slingshot-api/",
+			"baseURL": "https:///",
+			"tags": "Agriculture",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/slingshot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flyver",
+			"x-api-slug": "flyver",
+			"description": "Flyver is a company passionate about the future of drones. Were building the future by developing industrial solutions to solve problems in various vertical sectors. Drones are poised to revolutionize most sectors of the economy and were making it happen. Agriculture, Security, Insurance, Oil and Gas to start with.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flyver-drones.jpeg",
+			"humanURL": "http://flyver.co/",
+			"baseURL": "https:///",
+			"tags": "Agriculture",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/flyver/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "aWhere",
+			"x-api-slug": "awhere",
+			"description": "aWhere Ag Data Management harnesses agriculture analytics to create unprecedented visibility and insight from farm level to national policy. Learn more at aWhere.com!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21116-developer-awhere-com.jpg",
+			"humanURL": "http://developer.awhere.com/",
+			"baseURL": "https://api.awhere.com//",
+			"tags": "Agriculture",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/awhere/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Agriculture",
+	"include": [
+		{
+			"name": "WeoGeo Status",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/weogeo-status/apis.yaml"
+		},
+		{
+			"name": "Slingshot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/slingshot/apis.yaml"
+		},
+		{
+			"name": "Flyver",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/flyver/apis.yaml"
+		},
+		{
+			"name": "aWhere",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/agriculture/master/_listings/awhere/apis.yaml"
+		}
+	]
+}
